@@ -1,0 +1,10 @@
+app:
+  mail:
+    host: smtp.mailtrap.io
+    port: 2525
+    retry-count: 1
+    from: dev@example.com
+
+logging:
+  level:
+    kz.iitu: DEBUG
